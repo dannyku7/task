@@ -2,38 +2,31 @@
   "allowed": [
     {
       "key": "AOnKCdqBBU2kdBuxQyhjaUjyp2Ht8KjaiyoLsb7eOtDD6BuTjB7FfuDwZpVXoH2d",
-      "expire": "2099-09-09",
-      "note": "私人",
+      "expire": "2099-09-09"
     },
     {
       "key": "88ec44b788ac4dffbfd70ea250a5afa2",
-      "expire": "2099-09-09",
-      "note": "0y",
+      "expire": "2099-09-09"
     },
     {
       "key": "00b7b6cf6b11495ba38c77d8948de0c7",
-      "expire": "2099-09-09",
-      "note": "nituu_",
+      "expire": "2099-09-09"
     },
     {
       "key": "80cd96db02e844e3844b96030d1fd4ee",
-      "expire": "2099-09-09",
-      "note": "lingwai",
+      "expire": "2099-09-09"
     },
     {
       "key": "c3167b0caefb4fd0b3a1ed4ac68debc8",
-      "expire": "2099-09-09",
-      "note": "nicore_",
+      "expire": "2099-09-09"
     },
     {
       "key": "cedfd13b8915490381cc165b1c17375d",
-      "expire": "2026-03-31",
-      "note": "SuGoee測試用",
+      "expire": "2026-03-31"
     },
     {
       "key": "54a42a0b5b154679a484cf03cb64600f",
-      "expire": "2026-03-05",
-      "note": "#2抽獎",
+      "expire": "2026-03-05"
     }
   ]
 }
